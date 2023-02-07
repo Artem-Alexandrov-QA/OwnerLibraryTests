@@ -9,5 +9,5 @@ gradle clean test -Denv=localChrome
 
 * #### Удаленно на Selenoid [браузер: Chrome]
 ```b
-gradle clean test -Dstage=remoteChrome
+gradle clean test -Denv=remoteChrome
 ```
